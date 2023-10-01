@@ -3,12 +3,13 @@ Single command docker executor, for spinning a bash terminal in seconds.
 ![img](./assets/cli.png)
 
 ## Features
-Quick container instantiation with Docker
-Auto-installation of Bash in the container if not present
-Shared volume between the host and the container
-Neatly formatted prompt to differentiate between the host and container environments
-Optional container clean-up post session
-Prerequisites
+- Quick container instantiation with Docker
+- Auto-installation of Bash in the container if not present
+- Shared volume between the host and the container
+- Neatly formatted prompt to differentiate between the host and container environments
+- Optional container clean-up post session
+
+## Prerequisites
 Docker must be installed and running on the machine.
 
 ## Usage
